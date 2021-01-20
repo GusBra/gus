@@ -30,6 +30,10 @@ https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1 , Radio Capital Tv 
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
 
+#EXTINF:-1 , Nick 
+http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/61.m3u8
+
+
 
 #EXTINF:-1 , HBO
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/lbqtn3.m3u8?s=j_bfglid_h5mstsGwlCbLw&e=1611137482
