@@ -1,10 +1,8 @@
 #EXTINF:-1 , TV Peru
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 , BBC World
-
 #EXTINF:-1 , Caracol TV 
-
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/qkzjitm99su7y.m3u8?s=BxhlLXrPSzU8ujZ0D6c0Fg&e=1611140466
 
 #EXTINF:-1 ,  WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
@@ -21,44 +19,48 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
 
 
-
 EXTINF:-1 , Musica retro 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
+
 #EXTINF:-1 ,  REWIND
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
+
 
 #EXTINF:-1 , Radio Capital Tv 
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
 
 
 #EXTINF:-1 , HBO
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/lbqtn3.m3u8?s=j_bfglid_h5mstsGwlCbLw&e=1611137482
 
 #EXTINF:-1 , HBO2 
-https://live.televisiongratishd.com/tvplus2021/32_.m3u8?token=UCPhvcuH3zytUS23H_WwGw&expires=1610521373&ip=190.113.214.216
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/x5r58d0omlmqph.m3u8?s=0mN9hjcvVYFAJedCpk3X4A&e=1611139406
 
 #EXTINF:-1 , HBO plus
-https://live.televisiongratishd.com/tvplus2021/33_.m3u8?token=rP6bdRKYPEuD9O-tfX2PJQ&expires=1610521451&ip=190.113.214.216
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/3dgzjbpy.m3u8?s=6gq0i9KswIwN6742_xp3hA&e=1611139562
 
 #EXTINF:-1 , HBO Family
-https://live.televisiongratishd.com/tvplus2021/34_.m3u8?token=HkFrfsBrygPj4Nrz4Pd0rg&expires=1610521100&ip=190.113.214.216
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/mfobze65eqg.m3u8?s=B4OKes0rJbfBL1eLL9s4ag&e=1611139674
 
 #EXTINF:-1 , HBO xtreme
-https://live.televisiongratishd.com/tvplus2021/35_.m3u8?token=h-dDcpyyIPGQunb4LgRJfw&expires=1610521636&ip=190.113.214.216
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/way71f4yp5a3.m3u8?s=GS8demctspqjI-tfx20fNg&e=1611139756
 
 #EXTINF:-1 , HBO Signature
-https://live.televisiongratishd.com/tvplus2021/129_.m3u8?token=CrFQjnRzBDScfYB0844CXA&expires=1610521691&ip=190.113.214.216
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/g05mnm.m3u8?s=MQtKI4nvTUtwKPsZVkkZqA&e=1611139823
 
 
+#EXTINF:-1 , Animal Planet
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/zfwban4sppn0.m3u8?s=hr6_KlWLNqSFv5zhVSz5Ag&e=1611140370
 
-#EXTINF:-1 ,#EXTINF:-1 - Animal Planet achoAPPS.com #yomequedoencasa
 
-#EXTINF:-1 ,#EXTINF:-1 - Discovery Channel achoAPPS.com #yomequedoencasa
+#EXTINF:-1 , Discovery Channel 
 
-#EXTINF:-1 ,#EXTINF:-1 - History achoAPPS.com #yomequedoencasa
+#EXTINF:-1 , History
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/gtj8vdvlab11nc0.m3u8?s=KJAewsVAi0-WR3H8XmMCVg&e=1611140945
 
-#EXTINF:-1 ,#EXTINF:-1 - History2 achoAPPS.com #yomequedoencasa
+#EXTINF:-1 , History2
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/ypxvs0nyn.m3u8?s=WslvbXxU1RFTWvLdpVyGGQ&e=1611141080
 
 #EXTINF:-1 ,#EXTINF:-1 - NatGEO achoAPPS.com #yomequedoencasa
 
