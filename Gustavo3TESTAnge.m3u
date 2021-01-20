@@ -2,34 +2,34 @@
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 
-#EXTINF:-1 ,#EXTINF:-1 - BBC World achoAPPS.com #yomequedoencasa
+#EXTINF:-1 , BBC World 
 
-#EXTINF:-1 ,#EXTINF:-1 - Caracol TV achoAPPS.com #yomequedoencasa
+#EXTINF:-1 , Caracol TV 
 
 
-#EXTINF:-1 ,#EXTINF:-1 - WOW TV achoAPPS.com #yomequedoencasa
+#EXTINF:-1 ,  WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 
-#EXTINF:-1 ,#EXTINF:-1 - TELEMAX achoAPPS.com #yomequedoencasa
+#EXTINF:-1 , TELEMAX 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 
-#EXTINF:-1 ,#EXTINF:-1 - EXTREMA TV achoAPPS.com #yomequedoencasa
+#EXTINF:-1 , EXTREMA TV 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 - LOGOS achoAPPS.com #yomequedoencasa
+#EXTINF:-1 , LOGOS TV
 http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
 
 
 
-EXTINF:-1 ,#EXTINF:-1 - Musica retro achoAPPS.com #yomequedoencasa
+EXTINF:-1 , Musica retro 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 - MUSICA REWIND achoAPPS.com #yomequedoencasa
+#EXTINF:-1 ,  REWIND
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 - Radio Capital Tv achoAPPS.com #yomequedoencasa
+#EXTINF:-1 , Radio Capital Tv 
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
 
 
@@ -50,8 +50,6 @@ https://live.televisiongratishd.com/tvplus2021/35_.m3u8?token=h-dDcpyyIPGQunb4Lg
 
 #EXTINF:-1 , HBO Signature
 https://live.televisiongratishd.com/tvplus2021/129_.m3u8?token=CrFQjnRzBDScfYB0844CXA&expires=1610521691&ip=190.113.214.216
-
-
 
 
 
