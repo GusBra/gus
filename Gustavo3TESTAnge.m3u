@@ -34,7 +34,7 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&r
 
 
 #EXTINF:-1 , HBO
-https://live.televisiongratishd.com/tvplus2021/31_.m3u8?token=BOE-h33YFutZzqFstRH6xg&expires=1610521249&ip=190.113.214.216
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 , HBO2 
 https://live.televisiongratishd.com/tvplus2021/32_.m3u8?token=UCPhvcuH3zytUS23H_WwGw&expires=1610521373&ip=190.113.214.216
