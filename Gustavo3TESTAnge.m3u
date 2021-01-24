@@ -33,10 +33,18 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&r
 #EXTINF:-1 , Nick 
 http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/61.m3u8
 
+#EXTINF:-1 , Nick2
+http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/67.m3u8
+
+#EXTINF:-1 , boomerang
+http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/62.m3u8
+
+
+
 
 
 #EXTINF:-1 , HBO
-https://live.televisiongratishd.com/tvplus2022/31_.m3u8?token=nkoRoxtUSAl9tiLwyQHJ-w&expires=1611517203&ip=190.42.16.89
+http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/66.m3u8
 
 #EXTINF:-1 , HBO2 
 https://live.televisiongratishd.com/tvplus2022/32_.m3u8?token=Gx-Q-cBelBhakUvMqwRM-w&expires=1611517419&ip=190.42.16.89
