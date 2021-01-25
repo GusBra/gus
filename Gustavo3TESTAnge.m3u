@@ -30,6 +30,12 @@ https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1 , Radio Capital Tv 
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
 
+#EXTINF:-1 , ATV
+https://live.televisiongratishd.com/tvplus2022/61_.m3u8?token=87btuADAwYU_z68dfQNy9w&expires=1611545059&ip=190.42.16.89
+
+#EXTINF:-1 , AMERICA TELEVISION
+https://live.televisiongratishd.com/tvplus2022/61_.m3u8?token=87btuADAwYU_z68dfQNy9w&expires=1611545059&ip=190.42.16.89
+
 #EXTINF:-1 , Nick 
 http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/61.m3u8
 
@@ -44,27 +50,24 @@ http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/62.m3u8
 
 
 #EXTINF:-1 , HBO
-http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/60.m3u8
+https://live.televisiongratishd.com/tvplus2022/31_.m3u8?token=fjzQ7PfpzDjhiFpHEvUQ4w&expires=1611544726&ip=190.42.16.89
 
 #EXTINF:-1 , HBO2 
-http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/74.m3u8
+https://live.televisiongratishd.com/tvplus2022/32_.m3u8?token=3RW2E647LACVtVfo9CkCfQ&expires=1611544788&ip=190.42.16.89
 
 
 #EXTINF:-1 , HBO plus
-http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/64.m3u8
+https://live.televisiongratishd.com/tvplus2022/33_.m3u8?token=V4NA0egnA8weGzfx-2-VVQ&expires=1611545302&ip=190.42.16.89
 
 #EXTINF:-1 , HBO Family
-http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/65.m3u8
+https://live.televisiongratishd.com/tvplus2022/34_.m3u8?token=1xJb74HctX0KTS47HyMPuA&expires=1611544938&ip=190.42.16.89
 
 #EXTINF:-1 , HBO xtreme
-http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/68.m3u8
-
-#EXTINF:-1 , HBO Signature
-http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/69.m3u8
+https://live.televisiongratishd.com/tvplus2022/35_.m3u8?token=9fU2lBWIyJ5jrBUrRwsMYg&expires=1611544999&ip=190.42.16.89
 
 
-#EXTINF:-1 , Animal Planet
-http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/70.m3u8
+#EXTINF:-1 , VENUS
+https://live.televisiongratishd.com/tvplus2022/126_.m3u8?token=Mkne_cbcwPajLt2L9C0wQQ&expires=1611545378&ip=190.42.16.89
 
 
 #EXTINF:-1 , Discovery Channel 
