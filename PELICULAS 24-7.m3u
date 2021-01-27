@@ -1,0 +1,20 @@
+#EXTINF:-1 , Canal Peliculas Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w388706928.m3u8
+
+#EXTINF:-1 , Canal Peliculas Microvision HD
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 , Canal Peliculas Cascara TV
+https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8?DVR%22
+
+#EXTINF:-1 , Canal Peliculas Punal TV
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/playlist.m3u8?DVR
+
+#EXTINF:-1 , Canal Peliculas Infantiles Animadas
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8?DVR
+
+#EXTINF:-1 , Canal Peliculas xania TV
+http://lavozdetucuman.com/peliculas1.m3u8
+
+#EXTINF:-1 , Canal Peliculas REC TV
+https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
