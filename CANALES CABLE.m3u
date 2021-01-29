@@ -30,9 +30,8 @@ https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1 , Radio Capital Tv 
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
 
-#EXTINF:-1 , ATV
-https://live.televisiongratishd.com/tvplus2022/61_.m3u8?token=87btuADAwYU_z68dfQNy9w&expires=1611545059&ip=190.42.16.89
-
+#EXTINF:-1 , MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 , AMERICA TELEVISION
 https://live.televisiongratishd.com/tvplus2022/61_.m3u8?token=87btuADAwYU_z68dfQNy9w&expires=1611545059&ip=190.42.16.89
 
