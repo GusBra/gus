@@ -1,17 +1,12 @@
-#EXTINF:-1 , Dragon Ball Z
-http://89.105.194.59:25461/live/3toon8$$/3toon8$$/69.m3u8
-
-#EXTINF:-1 , El Chavo
-https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 , Los Simpson Clasicoss
-http://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpgEyTzJUspo-yIaHs9HU7lt2yqKuc32mARU0VTM8axlW_vYRyQTtJAuelbpMXOVORWpua1LhbuVMPcsXKIo_S1c0QUegMkmsywr039IxNcgOFene5EgL90BC8jseTmDpn0Sq9Yys-2KuV6VaCB0oavofv19VhWdtMDE25gvEO0GWa7yqYW7PxwGDbeZWW-IbdoERNFZ3gAYGC_Tr9lmfyXbPRC3mfl0pnI-JPErbXW5HGpqkSkS18wE3ed0bY-ZB9w1gkEINTYHZRSsULUFibHEWNcYsyHALHRowBmaOVmprz57xSMend1_uTwBIxF4qhJqR7phw-PR1o0Hp6y12gIOpnN8KXjAOEeND4eeNCYT5E0mxYyaqK1X7MaJawCIKZAjwtsfgctJEqG309Z3ReZs68exOLSfJ1Od2JPleP_POAEbE0lrYZu34g9e3K_93ABDBFkKxoe79zcoSSMOCglMyKJrujrQDiNdpEy0XoJ3S5yMWJBjWj6ZJqJBiFgPwHk4MeINN1VNLSV_OyYHFqRpX2-fJcG_GbWDGQogUmdb2aCG7r09LjMMF-KrArLwIXxeTz0BBdVBMbUH5jbClbE1AXOjcZzdE0zxTQq7W3lYJmxvN5a0jTbbNdJSB0vGPTy1jcEJUfNDazvvTboP5JQ07eWBbI_KxAUjbwY8aSj3zZjvg1NWpLSKOmUI3JspnBKSfCMOnAKl-GUSEIRdkHo6gHejk09mthP7-HwaDOh3VC5ZRlzbYBl8SA.m3u8 
-
-#EXTINF:-1 , Los Simpson Actual
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 , OsoOooOo
-https://www466.ff-01.com/token=gRnUOuEDSajmvEmrPlOjSw/1623642489/190.235.0.0/167/a/8d/2fbb379d38db0952fd19998332d8b8da-480p.mp4
-
-#EXTINF:-1 ,  Mi Amorcito
-https://www603.ff-02.com/token=mu9V7Cgp5Nfa7RKoYXJHlg/1625310425/190.235.0.0/168/6/fe/2bc0166ec20b654a4bc20ff19a785fe6-480p.mp4
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=648156,RESOLUTION=426x240,FRAME-RATE=25.000
+stream01/hdntl=exp=1625453338~acl=%2f*~data=hdntl~hmac=8e14091dbdb40a11e7309b146bffb70f9ee6fd929c77816cd9f782ab017e0417/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1097721,RESOLUTION=640x360,FRAME-RATE=25.000
+stream02/hdntl=exp=1625453338~acl=%2f*~data=hdntl~hmac=8e14091dbdb40a11e7309b146bffb70f9ee6fd929c77816cd9f782ab017e0417/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1547286,RESOLUTION=722x406,FRAME-RATE=25.000
+stream03/hdntl=exp=1625453338~acl=%2f*~data=hdntl~hmac=8e14091dbdb40a11e7309b146bffb70f9ee6fd929c77816cd9f782ab017e0417/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2446417,RESOLUTION=1280x720,FRAME-RATE=25.000
+stream04/hdntl=exp=1625453338~acl=%2f*~data=hdntl~hmac=8e14091dbdb40a11e7309b146bffb70f9ee6fd929c77816cd9f782ab017e0417/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3008373,RESOLUTION=1920x1080,FRAME-RATE=25.000
+stream05/hdntl=exp=1625453338~acl=%2f*~data=hdntl~hmac=8e14091dbdb40a11e7309b146bffb70f9ee6fd929c77816cd9f782ab017e0417/streamPlaylist.m3u8
