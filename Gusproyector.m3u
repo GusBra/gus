@@ -4,6 +4,8 @@ https://server30.pelisloadtop.com/server30/6305e116b82a8bd3daab62a5ac810f21/EP.0
 #EXTINF:-1 ,DEV2
 https://server30.pelisloadtop.com/server30/6305e116b82a8bd3daab62a5ac810f21/EP.0.1.v0.1635459362.480.m3u8
 
-#EXTINF:-1 ,encanto
-https://pr30.sbcdnvideo.com/hls/tysxedkjgc66j6cdacqbls2xpkzihs7rlwpiolc3yof7wb3q4rpwz5yazcoa/index-v1-a1.m3u8
+#EXTINF:-1 ,dev3
+https://server30.pelisloadtop.com/server30/6305e116b82a8bd3daab62a5ac810f21/EP.0.1.v0.1635459362.1080.m3u8
  
+#EXTINF:-1 ,dev4
+https://www769.ff-02.com/token=IbLDgNA8B78IF01Ry3ANIg/1649979272/201.240.0.0/109/d/63/c0d57f108d9d38ee3b87b6350e69363d-480p.mp4
