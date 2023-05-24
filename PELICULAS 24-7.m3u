@@ -1,23 +1,42 @@
-#EXTINF:-1 , aven1
-https://moon-400ge-streaming-server.dvsdvsdvsdva.com/hls2/01/03383/wo0qucxco7t5_x/index-v1-a1.m3u8?t=t1eZNeqMI4NqThm-v2D7yJ6Z0bIz-MresnGj2xYPmXU&s=1684114251&e=43200&f=16919652&srv=18&asn=6147&sp=2500
+#EXTINF:-1 , SECTOR 9
+https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a36e3f0af37fe5b8a36a6b7cbcfe8b9e/EP.0.1.v0.1677302140.1080.m3u8
 
-#EXTINF:-1 ,  Famili Guy 7x1
-https://s1.zplayer.live/hls/5fxcrgkiw6nufvsa6klu7tmjuy3lpfnbarnu4f6tu7pdixfxdgmpo443k54q/index-v1-a1.m3u8
+#EXTINF:-1 , conjuro 1
+https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/92ce4213366eec1e492ed7f357edbaf9/EP.0.1.v3.1677194288.720.m3u8
 
-#EXTINF:-1 ,  Famili Guy 7x2
-https://s3.zplayer.live/hls/5fxcvgciw6nufvsa6klu7uuduyizlupxjxlfh5qxrvnwwi6of7powzlt3maa/index-v1-a1.m3u8
+#EXTINF:-1 ,  conjuro 2
+https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8aa39df63e04c89de5622fcab8e7c088/EP.0.1.v0.1677464756.720.m3u8
 
-#EXTINF:-1 , Canal Peliculas Cascara TV
-https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8?DVR%22
+#EXTINF:-1 , zombieland 1
+https://pc-30.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/fb25604339abca1d03c41057155da33b/EP.0.1.v0.1677091721.360.m3u8
 
-#EXTINF:-1 , Canal Peliculas Punal TV
-https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/playlist.m3u8?DVR
+#EXTINF:-1 , zombieland 2
+https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c8bff6b6ceed479f4f805f82c37c3f12/EP.0.1.v1.1677315013.360.m3u8
 
-#EXTINF:-1 , Canal Peliculas Infantiles Animadas
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8?DVR
+#EXTINF:-1 , Todo Poderoso 1
+https://pc-30.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/12906770df3c9416037c8841ff47201f/EP.0.1.v0.1677395848.720.m3u8
 
-#EXTINF:-1 , Canal Peliculas xania TV
-http://lavozdetucuman.com/peliculas1.m3u8
+#EXTINF:-1 ,  Todo Poderoso 2
+https://pc-11.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/8fdf7fb4775121b04fd8d41082fdd768/EP.0.1.v0.1677123124.720.m3u8
 
-#EXTINF:-1 , Canal Peliculas REC TV
-https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 , Oz Poderoso Mago
+https://pc-03.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/6d6f51ce71a5fb39e4de2d5512cda0a1/EP.0.1.v0.1677413073.720.m3u8
+
+#EXTINF:-1 , Por Que el?
+https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/61b939148446d8562ce0251a18f31942/EP.0.1.v0.1677430483.1080.m3u8
+
+#EXTINF:-1 , Destino Final 1
+https://pc-29.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/27fda16ab8f73ef5bca049f9a3012d2c/EP.0.1.v0.1677211801.1080.m3u8
+
+#EXTINF:-1 , Destino Final 2
+https://pc-29.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/ce7aba964ef8c8218e558cc98a875583/EP.0.1.v0.1677107286.720.m3u8
+
+#EXTINF:-1 , Destino Final 3
+https://pc-28.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9de0282640c673269b590c870626bbf7/EP.0.1.v0.1677456801.1080.m3u8
+
+#EXTINF:-1 , Destino Final 4
+https://pc-26.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/68a451e464278ad07c6567f3a2d540b9/EP.0.1.v0.1678025869.360.m3u8
+
+#EXTINF:-1 , Efecto Mariposa
+https://pc-22.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/2fdc8c1647d6b1f5d7d2c80a4b3f517b/EP.0.1.v0.1681811138.1080.m3u8
+
